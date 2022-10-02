@@ -7,8 +7,8 @@
 <h2>🔭 Minhas experiências profissionais:</h2>
 
 <ul>
-  <li>Técnico de Obras Civis (em uma empresa de energia solar);</li>
-  <li>Presto manutenção em um site institucional que vendi usando HTML e CSS (estive aprendendo JS para aprimorar ainda mais);</li>
+  <li>Sou Técnico de Obras Civis (em uma empresa de energia solar);</li>
+  <li>Presto manutenção em um site institucional que vendi e desenvolvi usando HTML e CSS (estive aprendendo JS para aprimorar ainda mais, www.imicsaude.com.br);</li>
   <li>Já fui aprendiz de Assistente Administrativo em uma obra vertical (Uma obra de 3 prédios, sendo um comercial, um residencial e um hotel. Lá apliquei conceitos de controle de qualidade, controle de estoque e organização/arquivamento)
   <li>Já gerenciei uma obra de reforma em uma creche;</li>
   <li>Já trabalhei como técnico de eletrotécnico numa empresa de segurança eletrônica.</li>
