@@ -3,6 +3,7 @@
 <p>Sou o Lucas, tenho 27 anos, moro em Juazeiro do Norte, cidade onde nasci, que fica na região metropolitana do Cariri, no interior do Ceará.</p>
 <p>Sou Engenheiro Civil, Técnico em Eletrotécnica, porém sempre tive muita afinidade com computadores e programação.</p>
 <p>Atualmente procuro uma oportunidade de trabalhar primariamente com desenvolvimento de software sem precisar me distanciar 100% da engenharia (preferencialmente na modalidade remota - homeoffice), a isso chamo de realização pessoal, e sigo buscando.</p>
+<p>Estou planejando cursar uma especialização em Engenharia de Software em Abril de 2023.</p>
 
 <h2>🔭 Minhas experiências profissionais:</h2>
 
