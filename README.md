@@ -51,10 +51,6 @@
   <li>Telefone: (88)9.8865-7155</li>
 </ul>
 
-<h2>😄 Meus Pronomes: </h2>
-
-<p>Ele / dele.</p>
-
 <h2>💬 Observações: </h2>
 
 <p>Meu perfil tem pouco conteúdo pois estou começando a construir meu portfólio no GitHub, estou evoluindo e estudando na maior parte do "tempo livre".</p>
@@ -71,7 +67,7 @@
   <li>Gosto de jogos eletrônicos (meus favoritos são League of Legends, God of War, The Last of Us, Dead by Daylight e Stardew Valley);</li>
   <li>Os livros que estou lendo são "Torto Arado" e "Como Fazer Amigos e Influenciar Pessoas";</li>
   <li>Sou vegetariano;</li>
-  <li>Sou ariano, nasci em 25 de março (não sou fã de astrologia, está aí realmente apenas como uma curiosidade).</li>
+  <li>Nasci em 25 de março de 1995.</li>
 </ul>
 
 <!--
