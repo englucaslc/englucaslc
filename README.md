@@ -62,14 +62,14 @@
 
 <ul>
   <li>A linguagem de programação que eu mais usei foi C#, quando contruí um software de dimensionamento para o meu TCC;</li>
-  <li>Meu primeiro contato com programação foi aos 15 anos quando aprendi C++ nas férias com uma apostila que encontrei na internet;</li>
+  <li>Meu primeiro contato com programação foi aos 15 anos quando aprendi C++ básico nas férias com uma apostila que encontrei na internet;</li>
   <li>Sou o tutor de 3 gatos (Lisa, Toninho e Jovem);</li>
   <li>Treino musculação (sou iniciante ainda);</li>
   <li>Já trabalhei com configuração de sistemas de câmera de segurança;</li>
-  <li>Gosto muito de séries (minhas preferidas são Dark, Sherlock, Stranger Things e Westworld);</li>
+  <li>Gosto muito de séries (minhas preferidas são Dark, Sherlock, Stranger Things, The Boys e Westworld);</li>
   <li>Gosto de jogos eletrônicos (meus favoritos são League of Legends, God of War, The Last of Us, Dead by Daylight e Stardew Valley);</li>
   <li>Os livros que estou lendo são "Torto Arado" e "Como Fazer Amigos e Influenciar Pessoas";</li>
-  <li>Sou vegetariano (não sou "militante", é apenas uma característica minha);</li>
+  <li>Sou vegetariano;</li>
   <li>Sou ariano, nasci em 25 de março (não sou fã de astrologia, está aí realmente apenas como uma curiosidade).</li>
 </ul>
 
